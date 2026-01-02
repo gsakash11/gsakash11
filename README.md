@@ -1,15 +1,15 @@
-# gsakash
-## Hi there 👋
+# 👋 Hi, I'm Dev
+## 📌 About Me
 
-**gsakash11/gsakash11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Robotics Instructor and Technology Enthusiast passionate about teaching students the fundamentals of robotics, electronics, and programming. This GitHub repository is a curated collection of my teaching materials, student projects, practice codes, and real-world demonstrations used in schools and training programs.
 
-Here are some ideas to get you started:
+My goal is to make learning simple, practical, and hands-on, helping students understand concepts through projects rather than theory alone.
+**This repository contains:**
+* 🤖 Robotics project codes
+* 🔌 Arduino-based experiments
+* 📘 Student learning examples
+* 🏫 School & academic projects
+* 🛠️ Practice programs for beginners
+* 📑 Reference materials for teaching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  email id - [https://www.google.com/support/accounts/bin/answer.py?answer=181692]
