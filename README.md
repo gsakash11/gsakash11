@@ -12,4 +12,4 @@ My goal is to make learning simple, practical, and hands-on, helping students un
 * 🛠️ Practice programs for beginners
 * 📑 Reference materials for teaching
 
-  email id - [https://www.google.com/support/accounts/bin/answer.py?answer=181692]
+  email id - [akash.gs@uwrindia.com]
