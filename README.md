@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Dev
+![demopic](spiderman.jpeg)
 ## 📌 About Me
 
 I am a Robotics Instructor and Technology Enthusiast passionate about teaching students the fundamentals of robotics, electronics, and programming. This GitHub repository is a curated collection of my teaching materials, student projects, practice codes, and real-world demonstrations used in schools and training programs.
